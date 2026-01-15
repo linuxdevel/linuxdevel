@@ -30,7 +30,7 @@
 
 ## 🚀 About This Bounty Hunter (Developer)
 
-- 🌌 Currently exploring the **Outer Rim** of web development
+- 🌌 Currently exploring the **Outer Rim** of secure development
 - 🔧 Mastering the ancient arts of **Linux** and **DevOps**
 - 🎯 On a quest to build systems as reliable as Beskar armor
 - 🥚 Always hungry for new knowledge (and frog eggs)
