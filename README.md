@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Galaxy 🌟
 
-<img src="https://github.com/user-attachments/assets/541f50c5-4887-45a1-b97b-89dda7a152ad" alt="Grogu" width="300"/>
+<img src="images/grogu.svg" alt="Grogu" width="300"/>
 
 ### *This is the Way* 🛡️
 
