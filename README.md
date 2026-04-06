@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FFC300&center=true&vCenter=true&width=600&lines=Patu!+%F0%9F%8C%9F+(Translation%3A+This+is+awesome!);Hungry+I+am.+Code+I+must.;Sleep%3F+No.+Coffee+and+commits%2C+I+choose.;The+Force+is+strong+with+this+repo." alt="Grogu wisdom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FFC300&center=true&vCenter=true&width=600&lines=Patu!+%F0%9F%8C%9F+(Translation%3A+This+is+awesome!);Hungry+I+am.+Code+I+must.;Sleep%3F+No.+Coffee+and+commits%2C+I+choose.;The+Force+is+strong+with+this+repo.;AI+%2B+Security+%2B+Systems+%3D+%F0%9F%9A%80" alt="Grogu wisdom" />
 
 # 🌟 Welcome to My Galaxy 🌟
 
@@ -14,16 +14,34 @@
 
 ## 🗡️ The Armory — Tech Stack
 
+**Systems & Low-Level**
+
+![C](https://img.shields.io/badge/C-Professional-FFC300?style=for-the-badge&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-Expert-FFC300?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-FFC300?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Containers-FFC300?style=for-the-badge&logo=docker&logoColor=black)
-![Security](https://img.shields.io/badge/Security-Penetration_Testing-FFC300?style=for-the-badge&logo=hack-the-box&logoColor=black)
+
+**Application Development**
+
+![Java](https://img.shields.io/badge/Java-Professional-FFC300?style=for-the-badge&logo=openjdk&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed-FFC300?style=for-the-badge&logo=typescript&logoColor=black)
+
+**Infrastructure & Security**
+
+![Docker](https://img.shields.io/badge/Docker-Containers-FFC300?style=for-the-badge&logo=docker&logoColor=black)
 ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-FFC300?style=for-the-badge&logo=githubactions&logoColor=black)
+![Security](https://img.shields.io/badge/Penetration_Testing-Offensive_Security-FFC300?style=for-the-badge&logo=hack-the-box&logoColor=black)
+
+**AI & Automation** *(since June 2025)*
+
+![Claude](https://img.shields.io/badge/Anthropic_Claude-AI_Powered-FFC300?style=for-the-badge&logo=anthropic&logoColor=black)
+![AI](https://img.shields.io/badge/AI_Engineering-Agent_Workflows-FFC300?style=for-the-badge&logo=openai&logoColor=black)
+![Prompt](https://img.shields.io/badge/Prompt_Engineering-LLM_Integration-FFC300?style=for-the-badge&logo=probot&logoColor=black)
 
 ---
 
 ## 📡 Battle Stats
+
+> ⚠️ *Stats reflect public repos only — most of the action happens behind closed doors.*
 
 <img src="https://github-readme-stats.vercel.app/api?username=linuxdevel&show_icons=true&theme=dark&title_color=FFC300&icon_color=FFC300&text_color=ffffff&bg_color=0d1117&border_color=FFC300&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxdevel&layout=compact&theme=dark&title_color=FFC300&text_color=ffffff&bg_color=0d1117&border_color=FFC300" alt="Top Languages" width="49%"/>
@@ -35,10 +53,25 @@
 ## 🚀 Current Mission
 
 - 🌌 Exploring the **Outer Rim** of secure development
-- 🔧 Mastering the ancient arts of **Linux** and **DevOps**
+- ⚙️ Professional **C developer** — systems, performance, embedded
+- ☕ Professional **Java developer** — enterprise, backends, services
 - 🛡️ Building **AI-powered penetration testing** tools
+- 🤖 Deep in the AI trenches since **June 2025** — agents, workflows, LLM integration
 - 🥚 Always hungry for new knowledge (and frog eggs)
 - ⚔️ Fighting bugs with the power of the Force
+
+---
+
+## 🤖 AI Journey
+
+Since June 2025, AI has become a core part of the toolkit:
+
+- 🧠 Building **agentic systems** that plan, execute, and reason autonomously
+- 🔐 Combining **AI + offensive security** — automated pentest platforms
+- ⚡ Using LLMs to accelerate everything from code review to threat modelling
+- 🛠️ Prompt engineering, tool use, multi-agent orchestration
+
+*The Force and the models are strong with this one.*
 
 ---
 
