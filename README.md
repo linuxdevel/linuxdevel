@@ -43,8 +43,8 @@
 
 > ⚠️ *Stats reflect public repos only — most of the action happens behind closed doors.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=linuxdevel&show_icons=true&theme=dark&title_color=FFC300&icon_color=FFC300&text_color=ffffff&bg_color=0d1117&border_color=FFC300&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxdevel&layout=compact&theme=dark&title_color=FFC300&text_color=ffffff&bg_color=0d1117&border_color=FFC300" alt="Top Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=linuxdevel&theme=dark" alt="GitHub Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linuxdevel&theme=dark" alt="Top Languages" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=linuxdevel&theme=dark&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&background=0d1117&border=FFC300" alt="GitHub Streak" width="60%"/>
 
